@@ -6,7 +6,7 @@ Web Scraping: Utilizes BeautifulSoup to extract book titles, authors, prices, an
 Data Cleaning: A custom clean_price function that automatically strips currency symbols (₹) and commas to convert raw strings into usable numerical data.
 Insights & Visualization: * Identifies the Top 10 Most Expensive Bestsellers through automated sorting. 
 Generates high-quality visualizations using Seaborn and Matplotlib to display pricing distributions.
-Exportable Data: Automatically saves all scraped findings into a structured Amazon_best_seller_books_2025.csv file for further analysis. 
+Exportable Data: Automatically saves all scraped findings into a structured Amazon_best_seller_books_2025.csv file for further analysis.
 
 🛠️ Tech Stack
 Language: Python
