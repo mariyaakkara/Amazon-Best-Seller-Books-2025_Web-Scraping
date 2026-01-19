@@ -16,7 +16,7 @@ Exportable Data: Automatically saves all scraped findings into a structured Amaz
 
 
 🛠️ Tech Stack
-
+---
 Language: Python
 
 Libraries: Requests (HTTP calls), BeautifulSoup (Scraping), Pandas (Data Analysis), Seaborn & Matplotlib (Visualization)
